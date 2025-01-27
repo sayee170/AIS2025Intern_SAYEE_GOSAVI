@@ -21,3 +21,13 @@ Syntax, Explanation and Examples.
 
 # Task 3 :
 1. User Defined Functions.
+
+# Task 4 :
+1. Introduction to NumPy
+2. Arrays in NumPy
+3. Array Operations
+4. Array Shapes and Reshaping
+5. Array Manipulation
+6. Mathematical Functions
+7. Random Number Generation
+8. Broadcasting
