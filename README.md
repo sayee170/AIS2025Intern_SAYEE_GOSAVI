@@ -23,11 +23,31 @@ Syntax, Explanation and Examples.
 1. User Defined Functions.
 
 # Task 4 :
-1. Introduction to NumPy
-2. Arrays in NumPy
-3. Array Operations
-4. Array Shapes and Reshaping
-5. Array Manipulation
-6. Mathematical Functions
-7. Random Number Generation
-8. Broadcasting
+* Introduction to NumPy.
+* Arrays in Numpy.
+* Array Operations using NumPy.
+* Array Shapes and Re-Shaping.
+* Array Manipulation using NumPy.
+* Mathematical Functions in NumPy.
+* Random Number Generation using NumPy.
+* Broadcasting and its types (Rules).
+  
+# Task 5 : 
+Introduction to Pandas Data-Frame.
+Series : creation and operation.
+Dataframe : read csv, dataframe creation using matrix, dictionary.
+Dataframe operations : Indexing, Slicing.
+Data Cleaning : drop null, check null, fill null.
+Renaming : rename.
+Filtering : applying filter to data set.
+Aggregrating and Grouping : groupby, sum, mean, count.
+Mearging and joining : merge, concat.
+File I/O : read csv, read excel, dump data to csv, dump data to excel.
+Time series : datetime, resample.
+Visualization : plotting.
+Condition selection : and, or.
+
+
+# Task 6 : 
+Work on matplotlib and seaborn
+Data visualization : scatter Plot, Bar plot, pie chart, Line plot, Histogram, Subplots, Regression Plots, residual Plots in Matplotlib and Seaborn library
